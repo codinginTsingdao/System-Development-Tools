@@ -14,5 +14,4 @@
 Environment:
 - Ubuntu + WSL2
 - Bash
-- Git
-- XeLaTeX
+
