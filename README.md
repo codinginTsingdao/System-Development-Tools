@@ -17,10 +17,10 @@
 - Git 分支管理
 - LaTeX 实验报告
 
+### Lab02 Process Python Tooling
 
-## Environment
-
-- Ubuntu WSL2
-- Bash
-- Git
-- XeLaTeX
+内容：
+- Linux 进程与信号控制
+- Python 语义重构与代码检查
+- pdb 调试与 pytest 测试
+- cProfile 性能分析与程序优化
